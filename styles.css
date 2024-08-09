@@ -1,0 +1,44 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #b44734;
+}
+
+h1 {
+  margin: 30px;
+  font-family: Lobster, cursive;
+  text-shadow: 5px 0 #746228;
+  font-size: 7rem;
+  color: #1b1616;
+}
+
+p {
+  font-size: 2rem;
+  color: #1b1616;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, cursive;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #160f0f;
+  text-align: center;
+  font-family: sans-serif, cursive;
+  font-weight: 500;
+
+}
